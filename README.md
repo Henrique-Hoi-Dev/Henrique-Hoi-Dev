@@ -1,52 +1,55 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+## 👋 Olá, eu sou o Henrique Hoinacki!
 
-###
+Sou um desenvolvedor fullstack apaixonado por **dados, design, automação e boas experiências**. Atuo principalmente com **Node.js, TypeScript, PostgreSQL e AWS**, com foco em criar soluções escaláveis e inteligentes.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 🧠 O que eu faço
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 🔧 Backend com Node.js, Express, NestJS, Sequelize, TypeORM
+- 🧪 Testes com Jest, Vitest, integração e coverage
+- 🗄️ PostgreSQL, MongoDB, Redis e otimizações com queries brutas
+- ☁️ Cloud com AWS (SES, Lambda, CloudFront, S3), Heroku, Docker e Kubernetes
+- 📈 Dashboards com Power BI, análise de métricas e jornada do usuário
+- 🧠 Estudos em neurociência, UX e comportamento para gerar experiências mais humanas
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 💼 Projetos & Experiências
 
-###
+- 🛠️ Sistema de gestão logística com rotas, fretes e motoristas (Angular + Node)
+- 📦 Integrações com plataformas como VTEX, Zenvia, OneSignal e sistemas bancários
+- 📬 Monitoramento e auditoria de e-mails com AWS SES
+- 🧰 Esteiras DevOps para projetos terceirizados em Azure DevOps
+- 🎯 Mapeamento de dores e oportunidades em portais B2B, com foco em corretores e canais
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 🚀 Minhas tecnologias favoritas
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+### 🎙️ Em paralelo...
+
+- 🎧 Produzindo conteúdo sobre dados, design e neurociência
+- 💡 Criando projetos pessoais com LLMs e automações
+- 🧩 Explorando formas de unir tecnologia com experiências humanas
+
+---
+
+### 📫 Vamos conversar?
+
+- 📧 [riqueah@gmail.com](mailto:riqueah@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🌐 Em breve: meu site pessoal com blog e portfólio
+
+---
+
+> “Tecnologia não serve só para escalar. Ela precisa também emocionar.” – Henrique
