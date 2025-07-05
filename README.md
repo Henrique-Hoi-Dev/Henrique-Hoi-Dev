@@ -26,7 +26,7 @@ Sou um desenvolvedor fullstack apaixonado por **dados, design, automação e boa
 ---
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpyZ2s4N2N5N2dkdWEzcXRxY2t4djBsZ3AxYmYwYmYxOGNrb201NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="141" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpyZ2s4N2N5N2dkdWEzcXRxY2t4djBsZ3AxYmYwYmYxOGNrb201NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
@@ -98,7 +98,7 @@ Sou um desenvolvedor fullstack apaixonado por **dados, design, automação e boa
 ### 📫 Vamos conversar?
 
 - 📧 [riqueah@gmail.com](mailto:riqueah@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/henrique-hoinacki-a98b851a5/)
 - 🌐 Em breve: meu site pessoal com blog e portfólio
 
 ---
