@@ -89,7 +89,6 @@ Sou um desenvolvedor fullstack apaixonado por **dados, design, automação e boa
 
 ### 🎙️ Em paralelo...
 
-- 🎧 Produzindo conteúdo sobre dados, design e neurociência
 - 💡 Criando projetos pessoais com LLMs e automações
 - 🧩 Explorando formas de unir tecnologia com experiências humanas
 
@@ -99,7 +98,7 @@ Sou um desenvolvedor fullstack apaixonado por **dados, design, automação e boa
 
 - 📧 [riqueah@gmail.com](mailto:riqueah@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/henrique-hoinacki-a98b851a5/)
-- 🌐 Em breve: meu site pessoal com blog e portfólio
+- 🌐 [Portfólio](https://www.henriquehoinacki.dev/)
 
 ---
 
